@@ -1,5 +1,3 @@
-# guanjwcn.github.io
-
 <style>
     body {
         /* background-image: url("./images/bg.png"); */
@@ -18,3 +16,6 @@
 
     }
 </style>
+
+<script src="https://cdn.botpress.cloud/webchat/v0/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/201dec41-c32a-4210-aba5-9242b93b4fb7/webchat/config.js" defer></script>
